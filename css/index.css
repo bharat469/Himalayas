@@ -1,0 +1,45 @@
+.section-search input {
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90%;
+    border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x {
+    margin: 5px 10px;
+}
+
+.carousel {
+    height: 600px;
+    perspective: 500px;
+}
+
+.carousel .carousel-item {
+    width: 400px;
+}
+
+.carousel .carousel-item img {
+    width: 100%;
+}
+
+.carousel-item h3 {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #000;
+    box-sizing: border-box;
+    padding: 10px 5px;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+
+.carousel-item h4 {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    padding: 10px 5px;
+    font-weight: bold;
+    font-size: 1.7em;
+    text-align: center;
+}
